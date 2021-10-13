@@ -22,4 +22,4 @@ Each row of the CSV file represents one video and contains three main pieces of 
 Dataset: https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
  ## Approach
  Two Architectures: 3D Convs and CNN-RNN Stack
- ![alt text](https://github.com/Khanamin-XOR/Gesture-Recognition/blob/main/image.jpg?raw=true)
+ ![alt text](https://github.com/Khanamin-XOR/Gesture-Recognition/blob/main/1.png?raw=true)
